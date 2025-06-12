@@ -5,19 +5,22 @@
 </div>
 
 ## About Us
-SMK Thibbil Qulub Assimbani is a vocational high school dedicated to providing quality education and practical skills to prepare students for their future careers. Our institution combines traditional values with modern educational approaches.
+SMK Thibbil Qulub Assimbani adalah sekolah menengah kejuruan swasta yang berada di bawah naungan Yayasan Pondok Pesantren Thibbul Qulub Assimbani. Sekolah ini didirikan dengan tujuan mengintegrasikan pendidikan kejuruan modern dengan nilai-nilai pesantren, sehingga menghasilkan lulusan yang tidak hanya kompeten dalam bidang kejuruan tetapi juga memiliki akhlak mulia dan pemahaman agama yang kuat.
 
 ## Vision
-[Add your school's vision statement here]
+"Menjadi lembaga pendidikan kejuruan yang unggul dalam pembentukan generasi yang berakhlak mulia, terampil, dan berdaya saing global berlandaskan nilai-nilai Islam"
 
 ## Mission
-[Add your school's mission statements here]
+1. Menyelenggarakan pendidikan kejuruan yang mengintegrasikan nilai-nilai Islam
+2. Mengembangkan kompetensi siswa dalam bidang teknologi dan keterampilan
+3. Membangun karakter siswa yang berakhlak mulia dan bertanggung jawab
+4. Menciptakan lingkungan belajar yang kondusif dan modern
+5. Menjalin kerjasama dengan dunia industri untuk meningkatkan kompetensi siswa
 
 ## Programs/Departments
-- [List your vocational programs]
-- [e.g., Computer and Network Engineering]
-- [e.g., Multimedia]
-- [e.g., Business Management]
+- Teknik Kendaraan Ringan Otomotif (TKRO)
+- Teknik dan Bisnis Sepeda Motor (TBSM)
+- Rekayasa Perangkat Lunak (RPL)
 
 ## Features
 - 🎓 Qualified educators
@@ -27,12 +30,13 @@ SMK Thibbil Qulub Assimbani is a vocational high school dedicated to providing q
 - 🌟 Extracurricular activities
 
 ## Contact Information
-- 📍 Address: [Your school's complete address]
-- 📞 Phone: [Contact number]
-- 📧 Email: [Email address]
-- 🌐 Website: [School website if available]
+- 📍 Address: Dukuh Klekor Kulon RT 01 RW 04, Desa Pakumbulan, Kec. Buaran, Kab. Pekalongan, Jawa Tengah 51171
+- 📞 Phone: +62 285 788 5578
+- 📧 Email: smkthibbilqulub@gmail.com
+- 🌐 Website: https://smkthibbilqulub.sch.id
 - 📱 Social Media:
-  - [Social media links]
+  - Instagram: @smkthibbilqulubassimbani
+  - Facebook: SMK Thibbil Qulub Assimbani
 
 ## Repository Structure
 ```
@@ -48,7 +52,7 @@ SMK Thibbil Qulub Assimbani is a vocational high school dedicated to providing q
 We welcome contributions from our school community. Please read our [Contributing Guidelines](CONTRIBUTING.md) before making any contributions.
 
 ## License
-[Specify the license for your repository content]
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
