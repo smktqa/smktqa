@@ -18,9 +18,7 @@ SMK Thibbil Qulub Assimbani adalah sekolah menengah kejuruan swasta yang berada 
 5. Menjalin kerjasama dengan dunia industri untuk meningkatkan kompetensi siswa
 
 ## Programs/Departments
-- Teknik Kendaraan Ringan Otomotif (TKRO)
-- Teknik dan Bisnis Sepeda Motor (TBSM)
-- Rekayasa Perangkat Lunak (RPL)
+- Rekayasa Perangkat Lunak (RPL) / Pengembangan Perangkat Lunak dan Game (PPLG)
 
 ## Features
 - 🎓 Qualified educators
