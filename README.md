@@ -30,10 +30,10 @@ SMK Thibbil Qulub Assimbani adalah sekolah menengah kejuruan swasta yang berada 
 ## Contact Information
 - 📍 Address: Dukuh Klekor Kulon RT 01 RW 04, Desa Pakumbulan, Kec. Buaran, Kab. Pekalongan, Jawa Tengah 51171
 - 📞 Phone: +62 285 788 5578
-- 📧 Email: smkthibbilqulub@gmail.com
-- 🌐 Website: https://smkthibbilqulub.sch.id
+- 📧 Email: smktqa@gmail.com
+- 🌐 Website: https://smkthibbilqulub.blogspot.com/
 - 📱 Social Media:
-  - Instagram: @smkthibbilqulubassimbani
+  - Instagram: @smktqa
   - Facebook: SMK Thibbil Qulub Assimbani
 
 ## Repository Structure
